@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<slot name="a3"></slot>
-		这是子组件
+		这是子组件。
 		<span v-text="aProp"></span>
 		<slot></slot>
 		<span>可以放在任意位置</span>
